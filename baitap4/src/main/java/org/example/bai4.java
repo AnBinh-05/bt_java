@@ -28,7 +28,7 @@ import java.awt.event.ActionListener;
             setSize(450,250);
             setLocationRelativeTo(null);
 
-           
+
 
 
             kiemtra.addActionListener(new ActionListener() {
